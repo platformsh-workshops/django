@@ -10,6 +10,7 @@ hooks:
         mkdir logs
         pipenv install --system --deploy
         python manage.py collectstatic
+        ls -a static
     deploy: |
         python manage.py migrate
         # python manage.py generate_fake_data
