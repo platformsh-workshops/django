@@ -10,7 +10,7 @@
 
 The following repository can be used to go through a number of different hands-on workshops for working with Django on Platform.sh. 
 
-1. [Platform.sh fundamentals](docs/01-fundamentals.md)
+1. [Platform.sh fundamentals for Django](docs/01-fundamentals.md)
 2. Performance: Profiling best practices 
 3. Decoupling monoliths and frontend interchangeability
 4. [Managing a fleet of Django applications](04-fleet.md)
