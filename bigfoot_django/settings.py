@@ -142,7 +142,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 #################################################################################
 # Platform.sh-specific configuration
 # Helper function for decoding base64-encoded JSON variables.
-@staticmethod
+# @staticmethod
 def decode(variable):
     """Decodes a Platform.sh environment variable.
     Args:
