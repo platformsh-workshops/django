@@ -64,18 +64,20 @@ Take a look at those requirements, then follow the steps listed below.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
-<div align="center" width="50%" style="border: 1px solid gray;">
-   <img title="a title" alt="Alt text" src="images/gitops-principles.png" width="50%">
-   <p width="60%"><strong>Core GitOps principles.</strong> <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac.</em></p>
-   <br/>
+<div align="center">
+    <br/>
+    <img title="a title" alt="Alt text" src="images/gitops-principles.png" width="50%">
+    <p width="60%"><em><strong>Core GitOps principles.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac.</em></p>
+    <br/>
 </div>
 
 Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectetur a lectus interdum, hendrerit facilisis erat. Integer in finibus diam, vitae aliquam tellus. Vestibulum sagittis ac leo id ornare. Morbi dapibus quis augue sit amet commodo. Curabitur eu fringilla justo. Nam a aliquet enim. In posuere ultricies venenatis. Pellentesque magna lacus, dapibus nec vehicula ultricies, tempor quis diam. Nunc hendrerit tempus velit, at ullamcorper elit vulputate vitae. Nunc pulvinar tellus non lacus commodo ornare. Vestibulum lobortis non diam at aliquam. Donec tempor finibus nisi finibus tempus.
 
 <div align="center">
-   <img title="a title" alt="Alt text" src="images/cluster-base.png" width="50%">
-   <p width="60%"><em><strong>A service graph on Platform.sh for Django.</strong> Shown is a cluster of containers, which make up a Platform.sh environment. In this workshop, and environment is made up of a single Router container for networking and request handling, an Application container using Python 3.9 that builds and deploys the Django app, and a PostgreSQL service container for the database.</em></p>
-   <br/>
+    <br/>
+    <img title="a title" alt="Alt text" src="images/cluster-base.png" width="50%">
+    <p width="60%"><em><strong>A service graph on Platform.sh for Django.</strong> Shown is a cluster of containers, which make up a Platform.sh environment. In this workshop, and environment is made up of a single Router container for networking and request handling, an Application container using Python 3.9 that builds and deploys the Django app, and a PostgreSQL service container for the database.</em></p>
+    <br/>
 </div>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
@@ -87,12 +89,6 @@ Nunc urna felis, lobortis id turpis non, mattis iaculis massa. Nullam volutpat l
 Duis sed convallis lacus. In condimentum sapien justo, in sodales orci hendrerit non. Integer sagittis feugiat ex, ut pellentesque urna dictum id. Donec finibus massa felis, a pulvinar neque dictum lacinia. Integer tincidunt, mi nec scelerisque lacinia, erat libero malesuada nunc, a ultrices sapien tellus at eros. Aliquam varius aliquet ipsum et sollicitudin. Aliquam luctus iaculis arcu eget laoreet. Duis maximus venenatis mattis. Donec facilisis fringilla tellus, non aliquam enim tempor ut. Ut ut ligula massa. Quisque vel tristique ex, quis iaculis sem. Donec maximus tristique cursus.
 
 Cras sit amet mollis elit. Morbi in condimentum dolor. Mauris pretium viverra purus vitae ultricies. Nulla et enim vel turpis mollis pellentesque id at lorem. Nunc dapibus malesuada tempus. Donec maximus luctus ultrices. Duis pulvinar enim ut varius pretium. Nam ligula erat, convallis vitae feugiat et, lobortis et diam. Fusce metus ex, congue in neque a, elementum placerat sapien. Mauris elit tortor, cursus venenatis lorem at, tincidunt hendrerit mi. Ut et sollicitudin odio. In ac eros facilisis, luctus enim et, lobortis nisi. Nullam a felis metus. Phasellus pellentesque, eros vitae accumsan interdum, tortor turpis tempus ipsum, a pulvinar lacus risus vel ipsum. Suspendisse rhoncus quis mauris quis ullamcorper. Nullam nisl elit, suscipit at fringilla quis, interdum in nunc.
-
-A "newline". This text doesn't float anymore, is left-aligned.
-
-<div align="center">
-   <img title="a title" alt="Alt text" src="images/cluster-base.png" width="30%">
-</div>
 
 ## Getting started
 
@@ -186,7 +182,10 @@ Now that you have the repository locally and remotely on GitHub, let's use Docke
     ```
 
 <div align="center">
-<img title="a title" alt="Alt text" src="images/app-preview.png">
+    <br/>
+    <img title="a title" alt="Alt text" src="images/app-preview.png">
+    <p width="60%"><em><strong>The workshop application running locally.</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor.</em></p>
+    <br/>
 </div>
 
 
