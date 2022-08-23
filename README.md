@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finib
 
 Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectetur a lectus interdum, hendrerit facilisis erat. Integer in finibus diam, vitae aliquam tellus. Vestibulum sagittis ac leo id ornare. Morbi dapibus quis augue sit amet commodo. Curabitur eu fringilla justo. Nam a aliquet enim. In posuere ultricies venenatis. Pellentesque magna lacus, dapibus nec vehicula ultricies, tempor quis diam. Nunc hendrerit tempus velit, at ullamcorper elit vulputate vitae. Nunc pulvinar tellus non lacus commodo ornare. Vestibulum lobortis non diam at aliquam. Donec tempor finibus nisi finibus tempus.
 
-<div align="right">
+<div align="center">
     <br/>
     <p><strong><a href="docs/fundamentals/README.md">Start the workshop</a></strong></p>
 </div>
@@ -79,6 +79,10 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
 Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectetur a lectus interdum, hendrerit facilisis erat. Integer in finibus diam, vitae aliquam tellus. Vestibulum sagittis ac leo id ornare. Morbi dapibus quis augue sit amet commodo. Curabitur eu fringilla justo. Nam a aliquet enim. In posuere ultricies venenatis. Pellentesque magna lacus, dapibus nec vehicula ultricies, tempor quis diam. Nunc hendrerit tempus velit, at ullamcorper elit vulputate vitae. Nunc pulvinar tellus non lacus commodo ornare. Vestibulum lobortis non diam at aliquam. Donec tempor finibus nisi finibus tempus.
+
+<div align="center">
+    <p><strong><a href="docs/fleet/README.md">Start the workshop</a></strong></p>
+</div>
 
 ## Contact
 
