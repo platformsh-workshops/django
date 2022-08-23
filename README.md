@@ -53,7 +53,7 @@ There are many resources available to help you get started running applications 
 Depending on what you would like to learn, choose one of the available workshops below to start working with Platform.sh. 
 The order of the workshops is presented as a kind of learning path - that is, you can start at the top of the list and work your way through each workshop for a full training.
 
-## Platform.sh fundamentals
+### Platform.sh fundamentals
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
@@ -61,20 +61,18 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 
 <div align="right">
     <br/>
-    <hr>
     <p><strong><a href="docs/fundamentals/README.md">Start the workshop</a></strong></p>
 </div>
 
-
-## Performance: Profiling best practices
-
-*Coming soon.*
-
-## Decoupling monotliths and frontend interchangeability
+### Performance: Profiling best practices
 
 *Coming soon.*
 
-## Managing a fleet of applications
+### Decoupling monotliths and frontend interchangeability
+
+*Coming soon.*
+
+### Managing a fleet of applications
 
 4. [Managing a fleet of Django applications](docs/fleet/README.md)
 
