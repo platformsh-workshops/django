@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-<a href="#about">About</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#workshops">Workshops/a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contact">Contact</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contribute">Contribute</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#about">About</a>&nbsp&nbsp&nbsp&nbsp
+<a href="#workshops">Workshops</a>&nbsp&nbsp&nbsp&nbsp
+<a href="#contact">Contact</a>&nbsp&nbsp&nbsp&nbspp
+<a href="#contribute">Contribute</a>&nbsp&nbsp&nbsp&nbsp
 <br /><br />
 <a href="https://community.platform.sh"><strong>Join the community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh"><strong>Docs</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
