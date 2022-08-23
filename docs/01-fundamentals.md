@@ -12,7 +12,8 @@ You’ll find those answers in this workshop, where you’ll approach DevOps dif
 
 ### Outline
 
-1. Getting started and introduction
+1. Introduction
+1. Getting started
 1. Running locally
 1. Setting up Platform.sh with an integration
 1. Adding Platform.sh configuration
@@ -83,12 +84,6 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
 Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectetur a lectus interdum, hendrerit facilisis erat. Integer in finibus diam, vitae aliquam tellus. Vestibulum sagittis ac leo id ornare. Morbi dapibus quis augue sit amet commodo. Curabitur eu fringilla justo. Nam a aliquet enim. In posuere ultricies venenatis. Pellentesque magna lacus, dapibus nec vehicula ultricies, tempor quis diam. Nunc hendrerit tempus velit, at ullamcorper elit vulputate vitae. Nunc pulvinar tellus non lacus commodo ornare. Vestibulum lobortis non diam at aliquam. Donec tempor finibus nisi finibus tempus.
-
-Nunc urna felis, lobortis id turpis non, mattis iaculis massa. Nullam volutpat ligula quis sapien pellentesque fermentum. Duis eleifend lobortis feugiat. Vivamus laoreet ante odio, ullamcorper imperdiet augue fringilla quis. Morbi ac auctor nunc. Nullam vel libero eget nulla pretium aliquam. Morbi a aliquet risus, quis rutrum elit. Nam ipsum neque, iaculis vitae arcu id, facilisis rutrum felis. Sed eu purus massa. Praesent augue orci, tempor in vehicula in, vestibulum in tortor. Praesent risus enim, malesuada sit amet cursus vitae, dignissim ut sem. Ut vitae purus non nulla laoreet finibus hendrerit nec odio. Maecenas posuere mauris ligula, sit amet posuere nunc pulvinar at. Donec malesuada varius nibh, eu ultrices ante pretium vel. Fusce at pharetra nisi. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae;
-
-Duis sed convallis lacus. In condimentum sapien justo, in sodales orci hendrerit non. Integer sagittis feugiat ex, ut pellentesque urna dictum id. Donec finibus massa felis, a pulvinar neque dictum lacinia. Integer tincidunt, mi nec scelerisque lacinia, erat libero malesuada nunc, a ultrices sapien tellus at eros. Aliquam varius aliquet ipsum et sollicitudin. Aliquam luctus iaculis arcu eget laoreet. Duis maximus venenatis mattis. Donec facilisis fringilla tellus, non aliquam enim tempor ut. Ut ut ligula massa. Quisque vel tristique ex, quis iaculis sem. Donec maximus tristique cursus.
-
-Cras sit amet mollis elit. Morbi in condimentum dolor. Mauris pretium viverra purus vitae ultricies. Nulla et enim vel turpis mollis pellentesque id at lorem. Nunc dapibus malesuada tempus. Donec maximus luctus ultrices. Duis pulvinar enim ut varius pretium. Nam ligula erat, convallis vitae feugiat et, lobortis et diam. Fusce metus ex, congue in neque a, elementum placerat sapien. Mauris elit tortor, cursus venenatis lorem at, tincidunt hendrerit mi. Ut et sollicitudin odio. In ac eros facilisis, luctus enim et, lobortis nisi. Nullam a felis metus. Phasellus pellentesque, eros vitae accumsan interdum, tortor turpis tempus ipsum, a pulvinar lacus risus vel ipsum. Suspendisse rhoncus quis mauris quis ullamcorper. Nullam nisl elit, suscipit at fringilla quis, interdum in nunc.
 
 ## Getting started
 
