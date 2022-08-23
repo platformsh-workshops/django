@@ -66,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finib
 
 <div align="center">
    <img title="a title" alt="Alt text" src="images/gitops-principles.png" width="40%">
-   <p width="60%"><em>Core GitOps principles.</em></p>
+   <p width="60%"><strong>Core GitOps principles.</strong><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac.</em></p>
    <br/>
 </div>
 
@@ -74,7 +74,7 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 
 <div align="center">
    <img title="a title" alt="Alt text" src="images/cluster-base.png" width="50%">
-   <p width="60%"><em>A cluster of containers, making up a Platform.sh environment. In this workshop, and environment is made up of a single Router container for networking and request handling, an Application container using Python 3.9 that builds and deploys the Django app, and a PostgreSQL service container for the database.</em></p>
+   <p width="60%"><strong>A service graph on Platform.sh for Django.</strong><em>A cluster of containers, making up a Platform.sh environment. In this workshop, and environment is made up of a single Router container for networking and request handling, an Application container using Python 3.9 that builds and deploys the Django app, and a PostgreSQL service container for the database.</em></p>
    <br/>
 </div>
 
