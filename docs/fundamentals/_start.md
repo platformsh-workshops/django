@@ -4,6 +4,11 @@
    <h1>Platform.sh fundamentals for Django</h1>
 </div>
 
+## Contents
+
+- [About](#about)
+- [Before the workshop](#before-the-workshop)
+
 ## About
 
 DevOps engineers are often the sole key-holders of both environments and the understanding of how infrastructure dependencies are satisfied and updated. But what happens if they leave? And how easy are development environments to provision once you have hundreds of sites?
@@ -64,6 +69,5 @@ Take a look at those requirements, then follow the steps listed below.
 <div align="right">
     <br/>
     <hr>
-    <br/>
     <h3><a href="01-introduction.md">Move on to the Introduction</a></h3>
 </div>
