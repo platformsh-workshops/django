@@ -1,8 +1,8 @@
 <div align="center">
-   <img title="a title" alt="Alt text" src="../images/github/git-hub-demos.png">
-   <br/><br/>
-   <h1>Platform.sh fundamentals for Django</h1>
-   <h4>Setup and requirements</h4>
+    <img title="a title" alt="Alt text" src="../images/github/git-hub-workshops.png">
+    <br/><br/>
+    <h1>Platform.sh fundamentals for Django</h1>
+    <h4>Setup and requirements</h4>
 </div>
 
 ## Contents
@@ -18,14 +18,14 @@ You’ll find those answers in this workshop, where you’ll approach DevOps dif
 
 ### Outline
 
-1. Introduction
+During this workshop, you will cover a number of topics that will take you from nothing to a full development workflow for a Django app running in production on Platform.sh.
+
+1. Setup and requirements
+1. Introduction to the workshop and Platform.sh
 1. Getting started
-1. Running locally
-1. Setting up Platform.sh with an integration
-1. Adding Platform.sh configuration
-1. Data and environments on Platform.sh
-1. Writing and merging new features
-1. Rolling back changes
+1. Platform.sh configuration
+1. Data and environments
+1. Writing and reverting new features
 1. Next steps
 
 ## Before the workshop
