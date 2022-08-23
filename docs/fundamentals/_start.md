@@ -1,5 +1,5 @@
 <div align="center">
-   <img title="a title" alt="Alt text" src="images/github/git-hub-demos.png">
+   <img title="a title" alt="Alt text" src="../images/github/git-hub-demos.png">
    <br/><br/>
    <h1>Platform.sh fundamentals for Django</h1>
 </div>
@@ -65,5 +65,5 @@ Take a look at those requirements, then follow the steps listed below.
     <br/>
     <hr>
     <br/>
-    <h2><a href="01-introduction.md">Move on to the Introduction</a></h2>
+    <h3><a href="01-introduction.md">Move on to the Introduction</a></h3>
 </div>
