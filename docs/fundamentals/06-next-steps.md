@@ -11,9 +11,3 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 
 - [GitHub integration](#github-integration)
 - [Platform.sh configuration](#platformsh-configuration)
-
-<div align="left">
-    <br/>
-    <hr>
-    <h3><a href="../../README.md">Go back to the workshop homepage</a></h3>
-</div>
