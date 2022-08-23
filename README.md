@@ -10,8 +10,7 @@
 <a href="#contact">Contact</a>&nbsp&nbsp&nbsp&nbsp
 <a href="#contribute">Contribute</a>&nbsp&nbsp&nbsp&nbsp
 <a href="https://community.platform.sh">Join the community</a>&nbsp&nbsp&nbsp&nbsp
-<br /><br />
-
+<br />
 </p>
 
 <p align="center">
