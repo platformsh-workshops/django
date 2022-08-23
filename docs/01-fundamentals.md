@@ -62,7 +62,7 @@ Take a look at those requirements, then follow the steps listed below.
 
 ## Introduction
 
-<img src="images/cluster-base.png" align="left" width="50%"/>
+<img src="images/cluster-base.png" align="right" width="50%"/>
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
@@ -74,7 +74,7 @@ Duis sed convallis lacus. In condimentum sapien justo, in sodales orci hendrerit
 
 Cras sit amet mollis elit. Morbi in condimentum dolor. Mauris pretium viverra purus vitae ultricies. Nulla et enim vel turpis mollis pellentesque id at lorem. Nunc dapibus malesuada tempus. Donec maximus luctus ultrices. Duis pulvinar enim ut varius pretium. Nam ligula erat, convallis vitae feugiat et, lobortis et diam. Fusce metus ex, congue in neque a, elementum placerat sapien. Mauris elit tortor, cursus venenatis lorem at, tincidunt hendrerit mi. Ut et sollicitudin odio. In ac eros facilisis, luctus enim et, lobortis nisi. Nullam a felis metus. Phasellus pellentesque, eros vitae accumsan interdum, tortor turpis tempus ipsum, a pulvinar lacus risus vel ipsum. Suspendisse rhoncus quis mauris quis ullamcorper. Nullam nisl elit, suscipit at fringilla quis, interdum in nunc.
 
-<br clear="left"/>
+<br clear="right"/>
 
 A "newline". This text doesn't float anymore, is left-aligned.
 
