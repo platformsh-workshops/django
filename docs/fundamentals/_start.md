@@ -2,6 +2,7 @@
    <img title="a title" alt="Alt text" src="../images/github/git-hub-demos.png">
    <br/><br/>
    <h1>Platform.sh fundamentals for Django</h1>
+   <h4>Setup and requirements</h4>
 </div>
 
 ## Contents
@@ -69,5 +70,5 @@ Take a look at those requirements, then follow the steps listed below.
 <div align="right">
     <br/>
     <hr>
-    <h3><a href="01-introduction.md">Move on to the Introduction</a></h3>
+    <h3><a href="01-introduction.md">Move on to the introduction</a></h3>
 </div>
