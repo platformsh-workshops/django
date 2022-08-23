@@ -5,8 +5,10 @@
 </div>
 
 <p align="center">
-<strong>Contribute, request a feature, or check out our resources</strong>
-<br />
+<a href="#about"><strong>About</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#workshops"><strong>Workshops</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#contact"><strong>Contact</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#contribute"><strong>Contribute</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br />
 <a href="https://community.platform.sh"><strong>Join our community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://docs.platform.sh"><strong>Documentation</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
@@ -30,19 +32,6 @@
 </p>
 </p>
 
-<hr>
-
-<p align="center">
-<strong>Contents</strong>
-<br /><br />
-<a href="#about"><strong>About</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#workshops"><strong>Workshops</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contact"><strong>Contact</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contribute"><strong>Contribute</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<br />
-</p>
-<hr>
-
 ## About
 
 Platform.sh is a unified, secure, enterprise-grade platform for building, running, and scaling fleets of websites and applications.
@@ -60,7 +49,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finib
 Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectetur a lectus interdum, hendrerit facilisis erat. Integer in finibus diam, vitae aliquam tellus. Vestibulum sagittis ac leo id ornare. Morbi dapibus quis augue sit amet commodo. Curabitur eu fringilla justo. Nam a aliquet enim. In posuere ultricies venenatis. Pellentesque magna lacus, dapibus nec vehicula ultricies, tempor quis diam. Nunc hendrerit tempus velit, at ullamcorper elit vulputate vitae. Nunc pulvinar tellus non lacus commodo ornare. Vestibulum lobortis non diam at aliquam. Donec tempor finibus nisi finibus tempus.
 
 <div align="center">
-    <br/>
     <p><strong><a href="docs/fundamentals/README.md">Start the workshop</a></strong></p>
 </div>
 
@@ -73,8 +61,6 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 *Coming soon.*
 
 ### Managing a fleet of applications
-
-4. [Managing a fleet of Django applications](docs/fleet/README.md)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
