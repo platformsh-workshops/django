@@ -35,6 +35,7 @@ Take a look at those requirements, then follow the steps listed below.
 
 ### Requirements
 
+- Python 3.9
 - A GitHub account
 - Docker installed
 - pipenv installed

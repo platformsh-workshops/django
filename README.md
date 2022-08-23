@@ -74,33 +74,62 @@ Every one of our templates is open source, and they're important resources for u
 See something that's wrong with this template that needs to be fixed? Something in the documentation unclear or missing? Let us know!
 
 <p align="center">
-<strong>How to contribute</strong>
-<br /><br />
-<a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Submit a feature request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-workshops/django/pulls"><strong>Open a pull request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<br />
+	<strong>How to contribute</strong>
+	<br />
+	<br />
+	<a
+    href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=bug&template=bug_report.yml"
+    >
+		<strong>Report a bug</strong>
+	</a
+  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  
+	<a
+    href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=feature+request&template=improvements.yml"
+    >
+		<strong>Submit a feature request</strong>
+	</a
+  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  
+	<a href="https://github.com/platformsh-workshops/django/pulls"
+    >
+		<strong>Open a pull request</strong>
+	</a
+  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  
+	<br />
 </p>
 <br />
 <p align="center">
-<strong>Need help?</strong>
-<br /><br />
-<a href="https://community.platform.sh"><strong>Ask the Platform.sh Community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://chat.platform.sh"><strong>Join us on Slack</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<br />
+	<strong>Need help?</strong>
+	<br />
+	<br />
+	<a href="https://community.platform.sh"
+    >
+		<strong>Ask the Platform.sh Community</strong>
+	</a
+  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  
+	<a href="https://chat.platform.sh">
+		<strong>Join us on Slack</strong>
+	</a
+  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  
+	<br />
 </p>
 <br />
-<h3 align="center"><strong>Thanks to all of our amazing contributors!</strong></h3>
-<br/>
+<h3 align="center">
+	<strong>Thanks to all of our amazing contributors!</strong>
+</h3>
+<br />
 <p align="center">
-<a href="https://github.com/platformsh-workshops/django/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=platformsh-workshops/django" />
-</a>
+	<a href="https://github.com/platformsh-workshops/django/graphs/contributors">
+		<img src="https://contrib.rocks/image?repo=platformsh-workshops/django" />
+	</a>
 </p>
+<br />
+<hr />
 
-<br/>
-
-<hr>
 
 
 # BigFoot Django project
