@@ -65,8 +65,8 @@ Take a look at those requirements, then follow the steps listed below.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac. In lobortis, urna vitae posuere porta, dui lorem gravida metus, egestas pharetra nulla neque at tortor. Aliquam vulputate ex eget erat luctus sollicitudin. Morbi scelerisque est et felis molestie viverra. Integer tempor pulvinar ipsum. Integer sit amet tristique mi. Proin vehicula justo id arcu consectetur, eget tincidunt eros commodo. Nulla iaculis nec orci eget vestibulum. Praesent et vehicula nisl, sit amet vestibulum magna.
 
 <div align="center">
-   <img title="a title" alt="Alt text" src="images/gitops-principles.png" width="40%">
-   <p width="60%"><strong>Core GitOps principles.</strong><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac.</em></p>
+   <img title="a title" alt="Alt text" src="images/gitops-principles.png" width="50%">
+   <p width="60%"><strong>Core GitOps principles.</strong> <em>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nibh odio, finibus a accumsan congue, posuere vitae dolor. In et placerat urna, sit amet imperdiet nunc. Morbi pulvinar eros velit, cursus vestibulum orci faucibus ac.</em></p>
    <br/>
 </div>
 
@@ -74,7 +74,7 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 
 <div align="center">
    <img title="a title" alt="Alt text" src="images/cluster-base.png" width="50%">
-   <p width="60%"><strong>A service graph on Platform.sh for Django.</strong><em>A cluster of containers, making up a Platform.sh environment. In this workshop, and environment is made up of a single Router container for networking and request handling, an Application container using Python 3.9 that builds and deploys the Django app, and a PostgreSQL service container for the database.</em></p>
+   <p width="60%"><em><strong>A service graph on Platform.sh for Django.</strong> Shown is a cluster of containers, which make up a Platform.sh environment. In this workshop, and environment is made up of a single Router container for networking and request handling, an Application container using Python 3.9 that builds and deploys the Django app, and a PostgreSQL service container for the database.</em></p>
    <br/>
 </div>
 
