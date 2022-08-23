@@ -167,7 +167,7 @@ if (os.getenv('PLATFORM_APPLICATION_NAME') is not None):
     if (os.getenv('PLATFORM_APP_DIR') is not None):
         STATIC_ROOT = os.path.join(os.getenv('PLATFORM_APP_DIR'), 'static')
     if (os.getenv('PLATFORM_PROJECT_ENTROPY') is not None):
-        SECRET_KEY = config.projectEntropy
+        SECRET_KEY = os.getenv('PLATFORM_PROJECT_ENTROPY')
     # Database service configuration, post-build only.
     if (os.getenv('PLATFORM_ENVIRONMENT') is not None):
         platformRelationships = decode(os.getenv('PLATFORM_RELATIONSHIPS'))
