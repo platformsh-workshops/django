@@ -74,136 +74,28 @@ Every one of our templates is open source, and they're important resources for u
 See something that's wrong with this template that needs to be fixed? Something in the documentation unclear or missing? Let us know!
 
 <p align="center">
-	<strong>How to contribute</strong>
-	<br />
-	<br />
-	<a
-    href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=bug&template=bug_report.yml"
-    >
-		<strong>Report a bug</strong>
-	</a
-  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  
-	<a
-    href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=feature+request&template=improvements.yml"
-    >
-		<strong>Submit a feature request</strong>
-	</a
-  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  
-	<a href="https://github.com/platformsh-workshops/django/pulls"
-    >
-		<strong>Open a pull request</strong>
-	</a
-  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  
-	<br />
+<strong>How to contribute</strong>
+<br /><br />
+<a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Submit a feature request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/platformsh-workshops/django/pulls"><strong>Open a pull request</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<br />
 </p>
 <br />
 <p align="center">
-	<strong>Need help?</strong>
-	<br />
-	<br />
-	<a href="https://community.platform.sh"
-    >
-		<strong>Ask the Platform.sh Community</strong>
-	</a
-  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  
-	<a href="https://chat.platform.sh">
-		<strong>Join us on Slack</strong>
-	</a
-  >&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-  
-	<br />
+<strong>Need help?</strong>
+<br /><br />
+<a href="https://community.platform.sh"><strong>Ask the Platform.sh Community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://chat.platform.sh"><strong>Join us on Slack</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<br />
 </p>
 <br />
-<h3 align="center">
-	<strong>Thanks to all of our amazing contributors!</strong>
-</h3>
-<br />
+<h3 align="center"><strong>Thanks to all of our amazing contributors!</strong></h3>
+<br/>
 <p align="center">
-	<a href="https://github.com/platformsh-workshops/django/graphs/contributors">
-		<img src="https://contrib.rocks/image?repo=platformsh-workshops/django" />
-	</a>
+<a href="https://github.com/platformsh-workshops/django/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=platformsh-workshops/django" />
+</a>
 </p>
-<br />
-<hr />
 
-
-
-# BigFoot Django project
-
-## Outline
-
-1. [Platform.sh fundamentals](docs/01-fundamentals.md)
-    - Introduction
-    - Configuration & deploys
-    - Data & services
-    - Rolling back changes
-    - Next steps
-2. Profiling best practices 
-3. [Decoupling monoliths and frontend interchangeability](03-multiapp.md)
-    - Introduction
-    - Deploying the backend
-    - Deploying the frontend
-    - Inheritance and editorial workflows
-    - Next steps
-4. [Managing a fleet of WordPress applications](04-fleet.md)
-    - Introduction
-    - Organizations
-    - Managing multiple projects
-    - Growing the fleet
-    - Managing the fleet
-    - Next steps
-
-
-- [Debugging Performance in Python and Django applications](https://www.youtube.com/watch?v=khcuqNJR07U)
-
-## Installation
-
-Tested only with Python 3.9.
-
-1. Install requirements using `pipenv`:
-
-   ```bash
-   pipenv install
-   ```
-
-1. Start the PostGreSQL container:
-
-   ```bash
-   docker-compose up -d
-   ```
-
-2. `pyscopg2` library requires PostgreSQL to be installed on the system.
-   (E.x: you might get `pg_config executable not found` errors during installation)
-
-   Make sure PostgreSQL is installed on the host:
-
-   ```
-   > brew install postgresql           # MacOS
-   > sudo apt-get install postgresql   # Ubuntu
-   ```
-
-3. The database user/name are set to `bigfoot` by default. So, you might
-   need to run:
-   
-   ```
-   > sudo -u postgres psql
-   postgres> createdb bigfoot && createuser -s bigfoot
-   ```
-
-
-4. Generate fake data:
-   
-   ```bash
-   pipenv run python manage.py migrate
-   pipenv run python manage.py generate_fake_data
-   ```
-
-5. Run server with `blackfire-python`:
-
-   ```bash
-   blackfire-python manage.py runserver
-   ```
+<br/>
