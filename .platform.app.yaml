@@ -2,8 +2,8 @@ name: app
 type: 'python:3.9'
 dependencies:
     python3:
-        pip: 21.2.4
-        pipenv: 2021.5.29
+        pip: 22.2.2
+        pipenv: 2022.8.19
 hooks:
     build: |
         set -e

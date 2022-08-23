@@ -35,12 +35,12 @@ Take a look at those requirements, then follow the steps listed below.
 
 ### Requirements
 
-- Python 3.9
-- A GitHub account
-- Docker installed
-- pipenv installed
-- A Platform.sh account
-- The Platform.sh CLI installed locally
+- [Python 3.9](python.org/downloads/)
+- [A GitHub account](https://github.com/join)
+- [Docker installed](https://www.docker.com/products/docker-desktop/)
+- [pipenv installed](https://pypi.org/project/pipenv/)
+- [A Platform.sh account](https://auth.api.platform.sh/register) 
+- [The Platform.sh CLI installed locally](https://docs.platform.sh/administration/cli.html)
 
 ### Steps
 
@@ -57,10 +57,12 @@ Take a look at those requirements, then follow the steps listed below.
     In addition to a Platform.sh account, this workshop uses the Platform.sh CLI. The CLI is the primary, and the most useful, tool for deploying applications and interacting with your projects.
 
     ```bash
-    > curl -fsS https://platform.sh/cli/installer | php                 # Linux/MacOS
-    > curl -f https://platform.sh/cli/installer -o cli-installer.php    # Windows
-    > php cli-installer.php
+    curl -sS https://platform.sh/cli/installer | php
     ```
+
+    > **Note:**
+    >
+    > On some Windows terminals, you may need `php.exe` instead of `php`.
 
 1. Authenticate the CLI with your Platform.sh account:
 
