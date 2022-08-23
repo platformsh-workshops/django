@@ -5,15 +5,15 @@
 </div>
 
 <p align="center">
-<a href="#about"><strong>About</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#workshops"><strong>Workshops</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contact"><strong>Contact</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="#contribute"><strong>Contribute</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#about">About</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#workshops">Workshops/a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#contact">Contact</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="#contribute">Contribute</a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <br /><br />
-<a href="https://community.platform.sh"><strong>Join our community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://docs.platform.sh"><strong>Documentation</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://community.platform.sh"><strong>Join the community</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://docs.platform.sh"><strong>Docs</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://platform.sh/blog"><strong>Blog</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report a bug</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=bug&template=bug_report.yml"><strong>Report bugs</strong></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="https://github.com/platformsh-workshops/django/issues/new?assignees=&labels=feature+request&template=improvements.yml"><strong>Request a feature</strong></a>
 <br /><br />
 </p>
