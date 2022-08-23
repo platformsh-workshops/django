@@ -1,7 +1,7 @@
 <div align="center">
    <img title="a title" alt="Alt text" src="docs/images/github/git-hub-workshops-text.png">
    <br/><br/>
-   <h1>Django on Platform.sh workshops</h1>
+   <h1>Django on Platform.sh</h1>
 </div>
 
 
@@ -12,7 +12,7 @@ The following repository can be used to go through a number of different hands-o
 
 1. [Platform.sh fundamentals](docs/01-fundamentals.md)
 2. Performance: Profiling best practices 
-3. [Decoupling monoliths and frontend interchangeability](03-multiapp.md)
+3. Decoupling monoliths and frontend interchangeability
 4. [Managing a fleet of Django applications](04-fleet.md)
 
 

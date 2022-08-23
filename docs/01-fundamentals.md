@@ -1,13 +1,18 @@
 <div align="center">
    <img title="a title" alt="Alt text" src="images/github/git-hub-demos.png">
    <br/><br/>
-   <h1>Platform.sh fundamentals with Django</h1>
+   <h1>Platform.sh fundamentals for Django</h1>
 </div>
 
-## Outline
+## About
 
-1. Setting up
-1. Django and workshop repo introduction
+DevOps engineers are often the sole key-holders of both environments and the understanding of how infrastructure dependencies are satisfied and updated. But what happens if they leave? And how easy are development environments to provision once you have hundreds of sites?
+
+You’ll find those answers in this workshop, where you’ll approach DevOps differently for Django with Platform.sh. Each developer will configure infrastructure themselves with simple abstractions, and leverage tools they’re already using to provision environments on-demand.
+
+### Outline
+
+1. Getting started and introduction
 1. Running locally
 1. Setting up Platform.sh with an integration
 1. Adding Platform.sh configuration
@@ -16,15 +21,44 @@
 1. Rolling back changes: Reverts and rollbacks
 1. Next steps
 
-## Setting up
+## Before the workshop
+
+Before starting the workshop, there are a few requirements you will need to install and setup in order to follow the lesson.
+Take a look at those requirements, then follow the steps listed below.
 
 ### Requirements
 
 - A GitHub account
 - Docker installed
 - pipenv installed
+- A Platform.sh account
+- The Platform.sh CLI installed locally
 
 ### Steps
+
+1. Create a Platform.sh account.
+
+    Platform.sh provides a free one month trial, which will provide all of the resources you will need to go through these Getting Started guides.
+
+    Before starting, be sure to [register for a trial Platform.sh account](https://auth.api.platform.sh/register) if you have not done so already. You can use your email address to register, or you can sign up using an existing GitHub, Bitbucket, or Google account. If you choose this option, you will be able to set a password for your Platform.sh account later.
+
+    You will be given an option to create a project at this point (two options: Use a template and Create from scratch). Click the Cancel button in the right-hand corner of the screen for now - you will create a project later in the workshop.
+
+1. Install the Platform.sh CLI:
+
+    In addition to a Platform.sh account, this workshop uses the Platform.sh CLI. The CLI is the primary, and the most useful, tool for deploying applications and interacting with your projects.
+
+    ```bash
+    > curl -fsS https://platform.sh/cli/installer | php                 # Linux/MacOS
+    > curl -f https://platform.sh/cli/installer -o cli-installer.php    # Windows
+    > php cli-installer.php
+    ```
+
+1. Authenticate the CLI with your Platform.sh account:
+
+    ```bash
+    platform login
+    ```
 
 1. Generate template repo
 
@@ -38,7 +72,7 @@
     git clone git@github.com:<YOUR_NAMESPACE>/django.git
     ```
 
-## Django and workshop repo introduction
+## Getting started and introduction
 
 ## Running locally
  
@@ -110,35 +144,6 @@
 
 
 ## Setting up on Platform.sh
-
-### Requirements
-
-- A Platform.sh account
-- The Platform.sh CLI installed locally
-
-1. Create a Platform.sh account.
-
-    Platform.sh provides a free one month trial, which will provide all of the resources you will need to go through these Getting Started guides.
-
-    Before starting, be sure to [register for a trial Platform.sh account](https://auth.api.platform.sh/register) if you have not done so already. You can use your email address to register, or you can sign up using an existing GitHub, Bitbucket, or Google account. If you choose this option, you will be able to set a password for your Platform.sh account later.
-
-    You will be given an option to create a project at this point (two options: Use a template and Create from scratch). Click the Cancel button in the right-hand corner of the screen for now - you will create a project later in this guide.
-
-1. Install the Platform.sh CLI:
-
-    In addition to a Platform.sh account, this workshop uses the Platform.sh CLI. The CLI is the primary, and the most useful, tool for deploying applications and interacting with your projects.
-
-    ```bash
-    > curl -fsS https://platform.sh/cli/installer | php                 # Linux/MacOS
-    > curl -f https://platform.sh/cli/installer -o cli-installer.php    # Windows
-    > php cli-installer.php
-    ```
-
-1. Authenticate the CLI with your Platform.sh account:
-
-    ```bash
-    platform login
-    ```
 
 1. Create your first empty project:
 
