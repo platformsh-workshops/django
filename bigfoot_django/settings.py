@@ -19,9 +19,6 @@ from pathlib import Path
 #   configured in .platform.app.yaml.
 PLATFORMSH_DB_RELATIONSHIP="database"
 
-
-from platformshconfig import Config
-
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
