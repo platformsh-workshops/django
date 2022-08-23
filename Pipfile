@@ -5,7 +5,7 @@ name = "pypi"
 
 [packages]
 blackfire = ">=1.7.1"
-Django = ">=3.1.8,<4.0"
+django = ">=4.0,<5.0"
 Faker = ">=6.6.1"
 gunicorn = "*"
 platformshconfig = "~=2.0"

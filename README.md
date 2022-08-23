@@ -1,5 +1,7 @@
 # BigFoot Django project
 
+- [Debugging Performance in Python and Django applications](https://www.youtube.com/watch?v=khcuqNJR07U)
+
 ## Installation
 
 Tested only with Python 3.9.

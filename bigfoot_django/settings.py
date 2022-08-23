@@ -138,7 +138,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 # Import some Platform.sh settings from the environment.
 config = Config()
 if config.is_valid_platform():
-
+    DEBUG = False
     if config.appDir:
         STATIC_ROOT = os.path.join(config.appDir, 'static')
     if config.projectEntropy:
