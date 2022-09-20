@@ -6,7 +6,7 @@ dependencies:
         pipenv: 2022.8.19
 hooks:
     build: |
-        set -e
+        set -eu
         mkdir logs
         pipenv install --system --deploy
         python manage.py collectstatic
