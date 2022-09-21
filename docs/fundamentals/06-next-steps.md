@@ -11,3 +11,10 @@ Quisque congue elit eget risus condimentum malesuada. Aenean diam est, consectet
 
 - [GitHub integration](#github-integration)
 - [Platform.sh configuration](#platformsh-configuration)
+
+
+1. Shut down the PostgreSQL container
+
+    ```bash
+    docker-compose down
+    ```
