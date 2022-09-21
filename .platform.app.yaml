@@ -1,5 +1,5 @@
 name: app
-type: 'python:3.9'
+type: 'python:3.10'
 dependencies:
     python3:
         pip: 22.2.2
